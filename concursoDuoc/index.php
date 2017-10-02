@@ -13,13 +13,16 @@
 
   <body>
     <?php include("header.php"); ?>
-    <br>
-    <br>
     <center>
-      <a type="button" class="btn btn-success btn-lg" href="query/empezar.php?action=logistica">Jugar Olimpiadas Lógistica</a>
-      <br>
-      <br>
-      <a type="button" class="btn btn-success btn-lg" href="query/empezar.php?action=comex">Jugar Olimpiadas Comercio Exterior</a>
+    	<img src="media/logo.png" width="420">
+    	<br>
+    	<br>
+    	<br>
+    	<br>
+      	<a type="button" class="btn btn-success btn-lg" href="query/empezar.php?action=logistica">Jugar Olimpiadas Lógistica</a>
+      	<br>
+      	<br>
+      	<a type="button" class="btn btn-success btn-lg" href="query/empezar.php?action=comex">Jugar Olimpiadas Comercio Exterior</a>
     </center>
         <script type="text/javascript" src="lib/js/jquery.min.js"></script>
         <script type="text/javascript" src="lib/js/bootstrap.min.js"></script>
